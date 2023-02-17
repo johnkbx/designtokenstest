@@ -1,0 +1,1366 @@
+{
+  "ec": {
+    "Icons": {
+      "Direction": {
+        "Down": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Direction_Down_Medium_Default.svg"
+            }
+          }
+        },
+        "Top": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Direction_Top_Medium_Default.svg"
+            }
+          }
+        },
+        "Left": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Direction_Left_Medium_Default.svg"
+            }
+          }
+        },
+        "Right": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Direction_Right_Medium_Default.svg"
+            }
+          }
+        },
+        "Back": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Direction_Back_Medium_Default.svg"
+            }
+          }
+        },
+        "CircleCollapse": {
+          "Open": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Direction_Collapse_Open_Medium_Default.svg"
+              }
+            }
+          },
+          "Close": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Direction_Collapse_Close_Medium_Default.svg"
+              }
+            }
+          }
+        },
+        "Link": {
+          "Forward": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Direction_Link_Forward_Medium_Default.svg"
+              }
+            }
+          }
+        },
+        "Collapse": {
+          "Close": {
+            "Medium": {
+              "Default": {
+                "Web": {
+                  "value": "icons/eC_Icons_Direction_Collapse_Close_Medium_Default_Web.svg"
+                }
+              }
+            }
+          },
+          "Open": {
+            "Medium": {
+              "Default": {
+                "Web": {
+                  "value": "icons/eC_Icons_Direction_Collapse_Open_Medium_Default_Web.svg"
+                }
+              }
+            }
+          }
+        }
+      },
+      "Input": {
+        "Female": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Input_Female_Medium_Default.svg"
+            }
+          }
+        },
+        "Male": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Input_Male_Medium_Default.svg"
+            }
+          }
+        },
+        "Diverse": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Input_Diverse_Medium_Default.svg"
+            }
+          }
+        },
+        "Label": {
+          "CircleChecked": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Input_Label_CircleChecked_Medium_Default.svg"
+              }
+            }
+          },
+          "Checked": {
+            "Small": {
+              "Default": {
+                "value": "icons/eC_Icons_Input_Label_Checked_Small_Default.svg"
+              },
+              "Primary": {
+                "value": "icons/eC_Icons_Input_Label_Checked_Small_Primary.svg"
+              },
+              "Info": {
+                "value": "icons/eC_Icons_Input_Label_Checked_Small_Info.svg"
+              },
+              "OnBackground": {
+                "value": "icons/eC_Icons_Input_Label_Checked_Small_OnBackground.svg"
+              },
+              "Disabled": {
+                "value": "icons/eC_Icons_Input_Label_Checked_Small_Disabled.svg"
+              }
+            },
+            "Medium": {
+              "Default": {
+                "Web": {
+                  "value": "icons/eC_Icons_Input_Label_Checked_Medium_Default_Web.svg"
+                }
+              }
+            }
+          },
+          "Delete": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Input_Label_Delete_Medium_Default.svg"
+              }
+            },
+            "Delete": {
+              "Small": {
+                "Default": {
+                  "value": "icons/eC_Icons_Input_Label_Delete_Small_Default.svg"
+                }
+              }
+            }
+          },
+          "SmileCircle": {
+            "Medium": {
+              "Default": {
+                "Web": {
+                  "value": "icons/eC_Icon_Label_SmileCircle_Medium_Default_Web.svg"
+                }
+              }
+            }
+          },
+          "Smile": {
+            "Medium": {
+              "Default": {
+                "Web": {
+                  "value": "icons/eC_Icon_Label_Smile_Medium_Default_Web.svg"
+                }
+              }
+            }
+          },
+          "Money": {
+            "XLarge": {
+              "Default": {
+                "Web": {
+                  "value": "icons/eC_Icon_Label_Money_XLarge_Default_Web.svg"
+                }
+              }
+            }
+          }
+        },
+        "Checkbox": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Input_Checkbox_Medium_Default.svg"
+            }
+          }
+        },
+        "Radio": {
+          "Enabled": {
+            "Small": {
+              "Default": {
+                "value": "icons/eC_Icons_Input_Radio_Enabled_Small_Default.svg"
+              },
+              "Unselected": {
+                "value": "icons/eC_Icons_Input_Radio_Enabled_Small_Unselected.svg"
+              },
+              "Disabled": {
+                "value": "icons/eC_Icons_Input_Radio_Enabled_Small_Disabled.svg"
+              },
+              "UnselectedDisabled": {
+                "value": "icons/eC_Icons_Input_Radio_Enabled_Small_UnselectedDisabled.svg"
+              },
+              "SelectedError": {
+                "value": "icons/eC_Icons_Input_Radio_Enabled_Small_SelectedError.svg"
+              },
+              "UnselectedError": {
+                "value": "icons/eC_Icons_Input_Radio_Card_Medium_UnselectedError.svg"
+              }
+            }
+          },
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Input_Radio_Medium_Default.svg"
+            }
+          }
+        }
+      },
+      "Edit": {
+        "Edit": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Edit_Edit_Medium_Default.svg"
+            }
+          }
+        },
+        "Delete": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Edit_Delete_Medium_Default.svg"
+            }
+          }
+        },
+        "Write": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Edit_Write_Medium_Default.svg"
+            }
+          }
+        },
+        "Add": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Edit_Add_Medium_Default.svg"
+            }
+          }
+        },
+        "Copy": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Edit_Copy_Medium_Default.svg"
+            }
+          }
+        }
+      },
+      "Label": {
+        "Favorite": {
+          "Small": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_Favorite_Small_Default.svg"
+            }
+          }
+        },
+        "Attachment": {
+          "Small": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_Attachement_Small_Default.svg"
+            }
+          }
+        },
+        "Euro": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_Euro_Medium_Default.svg"
+            }
+          }
+        },
+        "Step": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_Step_Write_Medium_Default.svg"
+            }
+          }
+        },
+        "ThumbUp": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_Step_ThumbUp_Medium_Default.svg"
+            }
+          }
+        },
+        "Offer": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_Step_Offer_Medium_Default.svg"
+            }
+          }
+        },
+        "Location": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_Step_Location_Medium_Default.svg",
+              "Web": {
+                "value": "icons/eC_Icons_Action_Location_Medium_Default_Web.svg"
+              }
+            }
+          }
+        },
+        "Completed": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_Step_Completed_Medium_Default.svg"
+            }
+          }
+        },
+        "Calendar": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_Calendar_Medium_Default.svg"
+            }
+          }
+        },
+        "MoneyApproved": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_MoneyApproved_Medium_Default.svg"
+            }
+          }
+        },
+        "MoneyAdded": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_MoneyAdded_Medium_Default.svg"
+            }
+          }
+        },
+        "MoneyCanceled": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_MoneyCanceled_Medium_Default.svg"
+            }
+          }
+        },
+        "Money": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_Money_Medium_Default.svg"
+            }
+          }
+        },
+        "RateUp": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_RateUp_Medium_Default.svg"
+            }
+          }
+        },
+        "RateDown": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_RateDown_Medium_Default.svg"
+            }
+          }
+        },
+        "RatePause": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Label_RatePause_Medium_Default.svg"
+            }
+          }
+        }
+      },
+      "Product": {
+        "Finanzierungsrahmen": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Product_Finanzierungsrahmen_Medium_Default.svg"
+            }
+          }
+        },
+        "Finanzreserve": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Product_Finanzreserve_Medium_Default.svg"
+            }
+          }
+        },
+        "FinanzreserveKreditkarte": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Product_FinanzreserveKreditkarte_Medium_Default.svg"
+            }
+          }
+        },
+        "Ratenkauf": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Product_Ratenkauf_Medium_Default.svg"
+            }
+          }
+        },
+        "Ratenkredit": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Product_Ratenkredit_Medium_Default.svg"
+            }
+          }
+        }
+      },
+      "SocialMedia": {
+        "Facebook": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_SocialMedia_Facebook_Medium_Default.svg"
+            }
+          }
+        },
+        "Instagram": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_SocialMedia_Instagram_Medium_Default.svg"
+            }
+          }
+        },
+        "Twitter": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eeC_Icons_SocialMedia_Twitter_Medium_Default.svg"
+            }
+          }
+        },
+        "Linkedin": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_SocialMedia_Linkedin_Medium_Default.svg"
+            }
+          }
+        }
+      },
+      "Device": {
+        "Screen": {
+          "VideoLecture": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Device_Screen_VideoLecture_Medium_Default.svg"
+              }
+            }
+          },
+          "OnlineTest": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Device_Screen_OnlineTest_Medium_Default.svg"
+              }
+            }
+          }
+        },
+        "Mobile": {
+          "Cash": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Device_Mobile_Cash_Medium_Default.svg"
+              }
+            }
+          },
+          "List": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Device_Mobile_List_Medium_Default.svg"
+              }
+            }
+          },
+          "Settings": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Device_Mobile_Settings_Medium_Default.svg"
+              }
+            }
+          },
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Device_Mobile_Medium_Default.svg"
+            }
+          }
+        }
+      },
+      "File": {
+        "Document": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_File_Document_Medium_Default.svg"
+            }
+          }
+        },
+        "Add": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_File_Add_Medium_Default.svg"
+            }
+          }
+        },
+        "Upload": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_File_Upload_Medium_Default.svg"
+            }
+          }
+        },
+        "Search": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_File_Search_Medium_Default.svg"
+            }
+          }
+        },
+        "Tax": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_File_Tax_Medium_Default.svg"
+            }
+          }
+        },
+        "Consent": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_File_Consent_Medium_Default.svg"
+            }
+          }
+        },
+        "ThumbUp": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_File_ThumbUp_Medium_Default.svg"
+            }
+          }
+        },
+        "TaxId": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_File_TaxId_Medium_Default.svg"
+            }
+          }
+        },
+        "Error": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_File_Error_Medium_Default.svg"
+            }
+          }
+        },
+        "PDF": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_File_PDF_Medium_Default.svg"
+            }
+          }
+        },
+        "Check": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_File_Check_Medium_Default.svg"
+            }
+          }
+        },
+        "Loan": {
+          "XLarge": {
+            "Default": {
+              "Web": {
+                "value": "icons/eC_Icons_File_Loan_XLarge_Default_Web.svg"
+              }
+            }
+          }
+        },
+        "SearchCircle": {
+          "Medium": {
+            "Default": {
+              "Web": {
+                "value": "icons/eC_Icons_File_SearchCircle_Medium_Default_Web.svg"
+              }
+            }
+          }
+        }
+      },
+      "Action": {
+        "Search": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Search_Medium_Default.svg"
+            }
+          }
+        },
+        "Zoom": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Zoom_Medium_Default.svg"
+            }
+          }
+        },
+        "Location": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Location_Medium_Default.svg"
+            }
+          }
+        },
+        "Reload": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Reload_Medium_Default.svg"
+            }
+          }
+        },
+        "Microphone": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Microphone_Medium_Default.svg"
+            }
+          }
+        },
+        "Camera": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Camera_Medium_Default.svg"
+            }
+          }
+        },
+        "Image": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Image_Medium_Default.svg"
+            }
+          }
+        },
+        "Settings": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Settings_Medium_Default.svg"
+            }
+          }
+        },
+        "Heart": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Heart_Medium_Default.svg"
+            }
+          }
+        },
+        "Share": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Share_Medium_Default.svg"
+            }
+          }
+        },
+        "Star": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Star_Medium_Default.svg"
+            }
+          },
+          "Large": {
+            "Default": {
+              "Web": {
+                "value": "icons/eC_Icons_Menu_Star_Large_Default_Web.svg"
+              }
+            }
+          },
+          "Off": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Action_Star_Off_Medium_Default.svg",
+                "Web": {
+                  "value": "icons/eC_Icons_Menu_Star_Medium_Default_Web.svg"
+                }
+              }
+            }
+          }
+        },
+        "Attachment": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Attachement_Medium_Default.svg"
+            }
+          }
+        },
+        "Customer": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Customer_Medium_Default.svg"
+            }
+          }
+        },
+        "Filter": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Filter_Medium_Default.svg"
+            }
+          }
+        },
+        "FaceId": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_FaceId_Medium_Default.svg"
+            }
+          }
+        },
+        "TouchId": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_TouchId_Medium_Default.svg"
+            }
+          }
+        },
+        "Eye": {
+          "Hide": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Action_Eye_Hide_Medium_Default.svg"
+              }
+            }
+          },
+          "Show": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Action_Eye_Show_Medium_Default.svg"
+              }
+            }
+          }
+        },
+        "Coffee": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Coffee_Medium_Default.svg"
+            }
+          }
+        },
+        "Sofa": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Sofa_Medium_Default.svg"
+            }
+          }
+        },
+        "Time": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Time_Medium_Default.svg"
+            }
+          }
+        },
+        "Copyright": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Copyright_Medium_Default.svg"
+            }
+          }
+        },
+        "Info": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Info_Medium_Default.svg"
+            }
+          }
+        },
+        "Attention": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Attention_Medium_Default.svg"
+            }
+          },
+          "Small": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Attention_Small_Default.svg"
+            }
+          }
+        },
+        "Help": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Help_Medium_Default.svg"
+            }
+          }
+        },
+        "Darkmode": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Darkmode_Medium_Default.svg"
+            }
+          }
+        },
+        "Question": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Question_Medium_Default.svg"
+            }
+          }
+        },
+        "Accordeon": {
+          "Open": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Action_Accordeon_Open_Medium_Default.svg"
+              }
+            }
+          },
+          "Close": {
+            "Medium": {
+              "Default": {
+                "value": "icons/eC_Icons_Action_Accordeon_Close_Medium_Default.svg"
+              }
+            }
+          }
+        },
+        "Menu": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Menu_Medium_Default.svg"
+            }
+          }
+        },
+        "Cancel": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Cancel_Medium_Default.svg"
+            }
+          }
+        },
+        "LinkExtern": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_LinkExtern_Medium_Default.svg"
+            }
+          },
+          "Small": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_LinkExtern_Small_Default.svg"
+            }
+          }
+        },
+        "Upload": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Upload_Medium_Default.svg"
+            }
+          }
+        },
+        "Download": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Download_Medium_Default.svg"
+            }
+          }
+        },
+        "ShareiOS": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_ShareiOS_Medium_Default.svg"
+            }
+          }
+        },
+        "Exit": {
+          "Small": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Exit_Small_Default.svg"
+            }
+          }
+        },
+        "Swap": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Swap_Small_Default.svg"
+            }
+          }
+        },
+        "SmileySad": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_SmileySad_Medium_Default.svg"
+            }
+          }
+        },
+        "SmileyHappy": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_SmileyHappy_Medium_Default.svg"
+            }
+          }
+        },
+        "DatePicker": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_DatePicker_Medium_Default.svg"
+            }
+          }
+        },
+        "Baby": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Action_Baby_Medium_Default.svg"
+            }
+          }
+        },
+        "PlayCircle": {
+          "XLarge": {
+            "Default": {
+              "Web": {
+                "value": "icons/eC_Icons_Action_PlayCircle_XLarge_Default_Web.svg"
+              }
+            }
+          },
+          "Large": {
+            "Default": {
+              "Web": {
+                "value": "icons/eC_Icons_Action_PlayCircle_Large_Default_Web.svg"
+              }
+            }
+          }
+        },
+        "Click": {
+          "Large": {
+            "Default": {
+              "Web": {
+                "value": "icons/eC_Icons_Action_Click_Large_Default_Web.svg"
+              }
+            }
+          },
+          "Medium": {
+            "Default": {
+              "Web": {
+                "value": "icons/eC_Icons_Action_Click_Medium_Default_Web.svg"
+              }
+            }
+          }
+        }
+      },
+      "Menu": {
+        "MoneyTransfer": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_MoneyTransfer_Medium_Default.svg"
+            }
+          }
+        },
+        "Message": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Message_Medium_Default.svg"
+            }
+          }
+        },
+        "Archive": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Archive_Medium_Default.svg"
+            }
+          }
+        },
+        "Imprint": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Imprint_Medium_Default.svg"
+            }
+          }
+        },
+        "Dashboard": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Dashboard_Medium_Default.svg"
+            }
+          }
+        },
+        "FinanziellerSpielraum": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_FinanziellerSpielraum_Medium_Default.svg"
+            }
+          },
+          "XLarge": {
+            "Default": {
+              "Web": {
+                "value": "icons/eC_Icon_Menu_FinanziellerSpielraum_XLarge_Default_Web.svg"
+              }
+            }
+          }
+        },
+        "FinanziellerSpielraumCircle": {
+          "Medium": {
+            "Default": {
+              "Web": {
+                "value": "icons/eC_Icon_Menu_FinanziellerSpielraumCircle_Medium_Default_Web.svg"
+              }
+            },
+            "Primary": {
+              "Web": {
+                "value": "icons/eC_Icon_Menu_FinanziellerSpielraumCircle_Medium_Primary_Web.svg"
+              }
+            },
+            "Info": {
+              "Web": {
+                "value": "icons/eC_Icon_Menu_FinanziellerSpielraumCircle_Medium_Info_Web.svg"
+              }
+            },
+            "OnBackground": {
+              "Web": {
+                "value": "icons/eC_Icon_Menu_FinanziellerSpielraumCircle_Medium_OnBackground_Web.svg"
+              }
+            },
+            "Disabled": {
+              "Web": {
+                "value": "icons/eC_Icon_Menu_FinanziellerSpielraumCircle_Medium_Disabled_Web.svg"
+              }
+            }
+          }
+        },
+        "Design": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Design_Medium_Default.svg"
+            }
+          }
+        },
+        "Bank": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Bank_Medium_Default.svg"
+            }
+          }
+        },
+        "Notification": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Notification_Medium_Default.svg"
+            }
+          }
+        },
+        "Secure": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Secure_Medium_Default.svg"
+            }
+          }
+        },
+        "Lock": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Lock_Medium_Default.svg"
+            }
+          }
+        },
+        "Sale": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Sale_Medium_Default.svg"
+            }
+          }
+        },
+        "Announcement": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Announcement_Medium_Default.svg"
+            }
+          }
+        },
+        "Adress": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Adress_Medium_Default.svg"
+            }
+          }
+        },
+        "User": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_User_Medium_Default.svg"
+            }
+          }
+        },
+        "NotificationPush": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_NotificationPush_Medium_Default.svg"
+            }
+          }
+        },
+        "NotificationAnnouncement": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_NotificationAnnouncement_Medium_Default.svg"
+            }
+          }
+        },
+        "NotificationSms": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_NotificationSms_Medium_Default.svg"
+            }
+          }
+        },
+        "NotificationMessage": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_NotificationMessage_Medium_Default.svg"
+            }
+          }
+        },
+        "ReadMessage": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_ReadMessage_Medium_Default.svg"
+            }
+          }
+        },
+        "Wallet": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_Wallet_Medium_Default.svg"
+            }
+          }
+        },
+        "BankAccount": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Menu_BankAccount_Medium_Default.svg"
+            }
+          }
+        }
+      },
+      "Contact": {
+        "Phone": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Contact_Phone_Medium_Default.svg"
+            }
+          }
+        },
+        "Chat": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Contact_Chat_Medium_Default.svg"
+            }
+          }
+        },
+        "LiveSupport": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Contact_LiveSupport_Medium_Default.svg"
+            }
+          }
+        }
+      },
+      "Flag": {
+        "Israel": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Israel_Medium_Default.svg"
+            }
+          }
+        },
+        "Italien": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Italien_Medium_Default.svg"
+            }
+          }
+        },
+        "Deutschland": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Deutschland_Medium_Default.svg"
+            }
+          }
+        },
+        "Polen": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Polen_Medium_Default.svg"
+            }
+          }
+        },
+        "Portugal": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Portugal_Medium_Default.svg"
+            }
+          }
+        },
+        "Schweden": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Schweden_Medium_Default.svg"
+            }
+          }
+        },
+        "Irland": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Irland_Medium_Default.svg"
+            }
+          }
+        },
+        "Finnland": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Finnland_Medium_Default.svg"
+            }
+          }
+        },
+        "Zypern": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Zypern_Medium_Default.svg"
+            }
+          }
+        },
+        "Oesterreich": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Oesterreich_Medium_Default.svg"
+            }
+          }
+        },
+        "Grossbritannien": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Grossbritannien_Medium_Default.svg"
+            }
+          }
+        },
+        "Belgien": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Belgien_Medium_Default.svg"
+            }
+          }
+        },
+        "Slowakei": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Slowakei_Medium_Default.svg"
+            }
+          }
+        },
+        "Slowenien": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Slowenien_Medium_Default.svg"
+            }
+          }
+        },
+        "Lettland": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Lettland_Medium_Default.svg"
+            }
+          }
+        },
+        "Spanien": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Spanien_Medium_Default.svg"
+            }
+          }
+        },
+        "Luxemburg": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Luxemburg_Medium_Default.svg"
+            }
+          }
+        },
+        "Rumaenien": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Rumaenien_Medium_Default.svg"
+            }
+          }
+        },
+        "Griechenland": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Griechenland_Medium_Default.svg"
+            }
+          }
+        },
+        "Estland": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Estland_Medium_Default.svg"
+            }
+          }
+        },
+        "Ungarn": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Ungarn_Medium_Default.svg"
+            }
+          }
+        },
+        "Litauen": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Litauen_Medium_Default.svg"
+            }
+          }
+        },
+        "Malta": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Malta_Medium_Default.svg"
+            }
+          }
+        },
+        "Niederlande": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Niederlande_Medium_Default.svg"
+            }
+          }
+        },
+        "Bulgarien": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Bulgarien_Medium_Default.svg"
+            }
+          }
+        },
+        "Daenemark": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Daenemark_Medium_Default.svg"
+            }
+          }
+        },
+        "Tschechien": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Tschechien_Medium_Default.svg"
+            }
+          }
+        },
+        "Frankreich": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Frankreich_Medium_Default.svg"
+            }
+          }
+        },
+        "Kroatien": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Kroatien_Medium_Default.svg"
+            }
+          }
+        },
+        "Island": {
+          "Medium": {
+            "Default": {
+              "value": "icons/eC_Icons_Flag_Island_Medium_Default.svg"
+            }
+          }
+        }
+      }
+    }
+  }
+}

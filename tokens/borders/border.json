@@ -1,0 +1,32 @@
+{
+    "ec": {
+        "BorderRadius": {
+            "None": {
+                "value": "{border.base.size.None.value}"
+            },
+            "Small": {
+                "value": "{border.base.size.Small.value}"
+            },
+            "Medium": {
+                "value": "{border.base.size.Medium.value}"
+            },
+            "Large": {
+                "value": "{border.base.size.Large.value}"
+            }
+        },
+        "BorderWidth": {
+            "None": {
+                "valu": "{border.base.size.None.value}"
+            },
+            "Small": {
+                "value": "{border.base.size.XxxSmall.value}"
+            },
+            "Medium": {
+                "value": "{border.base.size.XxSmall.value}"
+            },
+            "Large": {
+                "value": "{border.base.size.XSmall.value}"
+            }
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+  "ec": {
+    "Shadow": {
+      "None": {
+        "offset-x": {
+          "value": "{boxshadow.base.size.None.value}"
+        },
+        "offset-y": {
+          "value": "{boxshadow.base.size.None.value}"
+        },
+        "blur-radius": {
+          "value": "{boxshadow.base.size.None.value}"
+        },
+        "spread-radius": {
+          "value": "{boxshadow.base.size.None.value}"
+        },
+        "color": {
+          "value": "{ec.Color.Boxshadow.000.value}"
+        }
+      },
+      "Small": {
+        "offset-x": {
+          "value": "{boxshadow.base.size.None.value}"
+        },
+        "offset-y": {
+          "value": "{boxshadow.base.size.XxxSmall.value}"
+        },
+        "blur-radius": {
+          "value": "{boxshadow.base.size.XxSmall.value}"
+        },
+        "spread-radius": {
+          "value": "{boxshadow.base.size.None.value}"
+        },
+        "color": {
+          "value": "{ec.Color.Boxshadow.025.value}"
+        }
+      },
+      "Medium": {
+        "offset-x": {
+          "value": "{boxshadow.base.size.None.value}"
+        },
+        "offset-y": {
+          "value": "{boxshadow.base.size.XSmall.value}"
+        },
+        "blur-radius": {
+          "value": "{boxshadow.base.size.Small.value}"
+        },
+        "spread-radius": {
+          "value": "{boxshadow.base.size.None.value}"
+        },
+        "color": {
+          "value": "{ec.Color.Boxshadow.050.value}"
+        }
+      },
+      "Large": {
+        "offset-x": {
+          "value": "{boxshadow.base.size.None.value}"
+        },
+        "offset-y": {
+          "value": "{boxshadow.base.size.XSmall.value}"
+        },
+        "blur-radius": {
+          "value": "{boxshadow.base.size.Medium.value}"
+        },
+        "spread-radius": {
+          "value": "{boxshadow.base.size.None.value}"
+        },
+        "color": {
+          "value": "{ec.Color.Boxshadow.075.value}"
+        }
+      }
+    }
+  }
+}

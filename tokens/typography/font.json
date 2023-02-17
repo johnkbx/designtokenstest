@@ -1,0 +1,428 @@
+{
+  "ec": {
+    "Text": {
+      "Heading": {
+        "XxxxxLarge": {
+          "fontsize": {
+            "value": "{font.base.size.XxxxxLarge.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Small.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.None.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Bold.value}"
+          }
+        },
+        "XxxxLarge": {
+          "fontsize": {
+            "value": "{font.base.size.XxxxLarge.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Small.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.None.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Bold.value}"
+          }
+        },
+        "XxxLarge": {
+          "fontsize": {
+            "value": "{font.base.size.XxxLarge.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Small.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.None.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Bold.value}"
+          }
+        },
+        "XxLarge": {
+          "fontsize": {
+            "value": "{font.base.size.XxLarge.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Small.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.None.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Bold.value}"
+          }
+        },
+        "XLarge": {
+          "fontsize": {
+            "value": "{font.base.size.XLarge.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Medium.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.None.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Bold.value}"
+          }
+        },
+        "Large": {
+          "fontsize": {
+            "value": "{font.base.size.Large.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Medium.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.None.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Bold.value}"
+          }
+        },
+        "Medium": {
+          "fontsize": {
+            "value": "{font.base.size.Medium.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Medium.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.None.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Bold.value}"
+          }
+        },
+        "Small": {
+          "fontsize": {
+            "value": "{font.base.size.Small.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Large.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.Small.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Bold.value}"
+          }
+        },
+        "XSmall": {
+          "fontsize": {
+            "value": "{font.base.size.XSmall.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Large.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.Small.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Bold.value}"
+          }
+        },
+        "XxSmall": {
+          "fontsize": {
+            "value": "{font.base.size.Small.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Large.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.Small.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Bold.value}"
+          }
+        }
+      },
+      "Paragraph": {
+        "XxxLarge": {
+          "fontsize": {
+            "value": "{font.base.size.XxxLarge.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Small.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.None.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Regular.value}"
+          }
+        },
+        "XxLarge": {
+          "fontsize": {
+            "value": "{font.base.size.XxLarge.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Small.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.None.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Regular.value}"
+          }
+        },
+        "XLarge": {
+          "fontsize": {
+            "value": "{font.base.size.XLarge.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Medium.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.None.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Regular.value}"
+          }
+        },
+        "Large": {
+          "fontsize": {
+            "value": "{font.base.size.Large.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Medium.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.None.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Regular.value}"
+          }
+        },
+        "Medium": {
+          "fontsize": {
+            "value": "{font.base.size.Medium.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Medium.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.None.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Regular.value}"
+          }
+        },
+        "Strong": {
+          "Medium": {
+            "fontsize": {
+              "value": "{font.base.size.Medium.value}"
+            },
+            "lineheight": {
+              "value": "{font.base.lineheight.Medium.value}"
+            },
+            "letterspacing": {
+              "value": "{font.base.letterspacing.None.value}"
+            },
+            "fontweight": {
+              "value": "{font.base.fontweight.Bold.value}"
+            }
+          }
+        }
+      },
+      "Feedback": {
+        "Xsmall": {
+          "fontsize": {
+            "value": "{font.base.size.XSmall.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Large.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.Small.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Medium.value}"
+          }
+        }
+      },
+      "Label": {
+        "Input": {
+          "Large": {
+            "fontsize": {
+              "value": "{font.base.size.Large.value}"
+            },
+            "lineheight": {
+              "value": "{font.base.lineheight.Medium.value}"
+            },
+            "letterspacing": {
+              "value": "{font.base.letterspacing.None.value}"
+            },
+            "fontweight": {
+              "value": "{font.base.fontweight.Medium.value}"
+            }
+          },
+          "Medium": {
+            "fontsize": {
+              "value": "{font.base.size.Medium.value}"
+            },
+            "lineheight": {
+              "value": "{font.base.lineheight.Medium.value}"
+            },
+            "letterspacing": {
+              "value": "{font.base.letterspacing.None.value}"
+            },
+            "fontweight": {
+              "value": "{font.base.fontweight.Medium.value}"
+            }
+          },
+          "Small": {
+            "fontsize": {
+              "value": "{font.base.size.Small.value}"
+            },
+            "lineheight": {
+              "value": "{font.base.lineheight.Large.value}"
+            },
+            "letterspacing": {
+              "value": "{font.base.letterspacing.Small.value}"
+            },
+            "fontweight": {
+              "value": "{font.base.fontweight.Regular.value}"
+            }
+          }
+        },
+        "Badges": {
+          "XSmall": {
+            "fontsize": {
+              "value": "{font.base.size.XSmall.value}"
+            },
+            "lineheight": {
+              "value": "{font.base.lineheight.Large.value}"
+            },
+            "letterspacing": {
+              "value": "{font.base.letterspacing.Small.value}"
+            },
+            "fontweight": {
+              "value": "{font.base.fontweight.Bold.value}"
+            }
+          }
+        },
+        "Menu": {
+          "XxSmall": {
+            "fontsize": {
+              "value": "{font.base.size.XxSmall.value}"
+            },
+            "lineheight": {
+              "value": "{font.base.lineheight.Large.value}"
+            },
+            "letterspacing": {
+              "value": "{font.base.letterspacing.Small.value}"
+            },
+            "fontweight": {
+              "value": "{font.base.fontweight.Medium.value}"
+            }
+          }
+        },
+        "Strong": {
+          "XSmall": {
+            "fontsize": {
+              "value": "{font.base.size.XSmall.value}"
+            },
+            "lineheight": {
+              "value": "{font.base.lineheight.Large.value}"
+            },
+            "letterspacing": {
+              "value": "{font.base.letterspacing.Small.value}"
+            },
+            "fontweight": {
+              "value": "{font.base.fontweight.Bold.value}"
+            }
+          }
+        }
+      },
+      "Link": {
+        "XSmall": {
+          "fontsize": {
+            "value": "{font.base.size.XSmall.value}"
+          },
+          "lineheight": {
+            "value": "{font.base.lineheight.Large.value}"
+          },
+          "letterspacing": {
+            "value": "{font.base.letterspacing.Small.value}"
+          },
+          "fontweight": {
+            "value": "{font.base.fontweight.Medium.value}"
+          }
+        },
+        "Strong": {
+          "Small": {
+            "fontsize": {
+              "value": "{font.base.size.Small.value}"
+            },
+            "lineheight": {
+              "value": "{font.base.lineheight.Large.value}"
+            },
+            "letterspacing": {
+              "value": "{font.base.letterspacing.Small.value}"
+            },
+            "fontweight": {
+              "value": "{font.base.fontweight.Bold.value}"
+            }
+          },
+          "Medium": {
+            "fontsize": {
+              "value": "{font.base.size.Medium.value}"
+            },
+            "lineheight": {
+              "value": "{font.base.lineheight.Medium.value}"
+            },
+            "letterspacing": {
+              "value": "{font.base.letterspacing.None.value}"
+            },
+            "fontweight": {
+              "value": "{font.base.fontweight.Bold.value}"
+            }
+          }
+        },
+        "Medium": {
+          "XxxLarge": {
+            "fontsize": {
+              "value": "{font.base.size.XxxLarge.value}"
+            },
+            "lineheight": {
+              "value": "{font.base.lineheight.Small.value}"
+            },
+            "letterspacing": {
+              "value": "{font.base.letterspacing.None.value}"
+            },
+            "fontweight": {
+              "value": "{font.base.fontweight.Medium.value}"
+            },
+            "textdecoration": {
+              "value": "underline"
+            }
+          },
+          "Inactive": {
+            "fontsize": {
+              "value": "{font.base.size.Medium.value}"
+            },
+            "lineheight": {
+              "value": "{font.base.lineheight.Medium.value}"
+            },
+            "letterspacing": {
+              "value": "{font.base.letterspacing.None.value}"
+            },
+            "fontweight": {
+              "value": "{font.base.fontweight.Medium.value}"
+            },
+            "textdecoration": {
+              "value": "underline"
+            }
+          }
+        }
+      }
+    }
+  }
+}
