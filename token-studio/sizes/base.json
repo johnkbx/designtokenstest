@@ -1,0 +1,216 @@
+{
+  "font": {
+    "base": {
+      "size": {
+        "XxSmall": {
+          "value": "0.625rem",
+          "type": "other"
+        },
+        "XSmall": {
+          "value": "0.75rem",
+          "type": "other"
+        },
+        "Small": {
+          "value": "0.875rem",
+          "type": "other"
+        },
+        "Medium": {
+          "value": "1rem",
+          "type": "other"
+        },
+        "Large": {
+          "value": "1.125rem",
+          "type": "other"
+        },
+        "XLarge": {
+          "value": "1.25rem",
+          "type": "other"
+        },
+        "XxLarge": {
+          "value": "1.5rem",
+          "type": "other"
+        },
+        "XxxLarge": {
+          "value": "1.875rem",
+          "type": "other"
+        },
+        "XxxxLarge": {
+          "value": "2.5rem",
+          "type": "other"
+        },
+        "XxxxxLarge": {
+          "value": "3.5rem",
+          "type": "other"
+        }
+      },
+      "fontweight": {
+        "Regular": {
+          "value": "400",
+          "type": "other"
+        },
+        "Medium": {
+          "value": "500",
+          "type": "other"
+        },
+        "Bold": {
+          "value": "700",
+          "type": "other"
+        }
+      },
+      "lineheight": {
+        "Small": {
+          "value": "1.2",
+          "type": "other"
+        },
+        "Medium": {
+          "value": "1.3",
+          "type": "other"
+        },
+        "Large": {
+          "value": "1.4",
+          "type": "other"
+        }
+      },
+      "letterspacing": {
+        "None": {
+          "value": "0rem",
+          "type": "other"
+        },
+        "Small": {
+          "value": "0.063rem",
+          "type": "other"
+        }
+      }
+    }
+  },
+  "spacing": {
+    "base": {
+      "None": {
+        "value": "0rem",
+        "type": "spacing"
+      },
+      "XSmall": {
+        "value": "0.25rem",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "0.5rem",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "1rem",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "1.5rem",
+        "type": "spacing"
+      },
+      "XLarge": {
+        "value": "2rem",
+        "type": "spacing"
+      },
+      "XxLarge": {
+        "value": "3rem",
+        "type": "spacing"
+      },
+      "XxxLarge": {
+        "value": "3.5rem",
+        "type": "spacing"
+      },
+      "XxxxLarge": {
+        "value": "4rem",
+        "type": "spacing"
+      }
+    }
+  },
+  "border": {
+    "base": {
+      "size": {
+        "None": {
+          "value": "0rem",
+          "type": "border"
+        },
+        "XxxSmall": {
+          "value": "0.063rem",
+          "type": "border"
+        },
+        "XxSmall": {
+          "value": "0.125rem",
+          "type": "border"
+        },
+        "XSmall": {
+          "value": "0.25rem",
+          "type": "border"
+        },
+        "Small": {
+          "value": "0.5rem",
+          "type": "border"
+        },
+        "Medium": {
+          "value": "1rem",
+          "type": "border"
+        },
+        "Large": {
+          "value": "1.5rem",
+          "type": "border"
+        },
+        "XLarge": {
+          "value": "2rem",
+          "type": "border"
+        },
+        "XxLarge": {
+          "value": "3rem",
+          "type": "border"
+        },
+        "XxxLarge": {
+          "value": "3.5rem",
+          "type": "border"
+        }
+      }
+    }
+  },
+  "boxshadow": {
+    "base": {
+      "size": {
+        "None": {
+          "value": "0rem",
+          "type": "other"
+        },
+        "XxxSmall": {
+          "value": "0.0625rem",
+          "type": "other"
+        },
+        "XxSmall": {
+          "value": "0.1875rem",
+          "type": "other"
+        },
+        "XSmall": {
+          "value": "0.25rem",
+          "type": "other"
+        },
+        "Small": {
+          "value": "0.375rem",
+          "type": "other"
+        },
+        "Medium": {
+          "value": "0.75rem",
+          "type": "other"
+        }
+      }
+    }
+  },
+  "stroke": {
+    "base": {
+      "size": {
+        "None": {
+          "value": "0rem",
+          "type": "other"
+        },
+        "Default": {
+          "value": "0.125rem",
+          "type": "other"
+        }
+      }
+    }
+  }
+}

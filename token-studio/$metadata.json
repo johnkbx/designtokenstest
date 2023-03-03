@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "borders/border",
+    "color/base",
+    "color/color",
+    "effects/box-shadows",
+    "graphics/graphic",
+    "icons/icons",
+    "illustrations/illustrations",
+    "sizes/base",
+    "typography/font"
+  ]
+}

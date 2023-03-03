@@ -1,0 +1,516 @@
+{
+  "ec": {
+    "Graphic": {
+      "Illustration": {
+        "Notifications-advanced-solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Notifications-advanced-solid-I.svg",
+          "type": "other"
+        },
+        "Notifications-advanced-solid-II": {
+          "value": "illustrations/eC_Graphic_Illustration_Notifications-advanced-solid-II.svg",
+          "type": "other"
+        },
+        "Notifications-solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Notifications-solid-I.svg",
+          "type": "other"
+        },
+        "Construction-solid-III": {
+          "value": "illustrations/eC_Graphic_Illustration_Construction-solid-III.svg",
+          "type": "other"
+        },
+        "Contact-Us-Solid-II": {
+          "value": "illustrations/eC_Graphic_Illustration_Contact-Us-Solid-II.svg",
+          "type": "other"
+        },
+        "Contact-Us-Solid-III": {
+          "value": "illustrations/eC_Graphic_Illustration_Contact-Us-Solid-III.svg",
+          "type": "other"
+        },
+        "Contact-Us-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Contact-Us-Solid-I.svg",
+          "type": "other"
+        },
+        "Designer-Solid-III": {
+          "value": "illustrations/eC_Graphic_Illustration_Designer-Solid-III.svg",
+          "type": "other"
+        },
+        "Developer-Solid-III": {
+          "value": "illustrations/eC_Graphic_Illustration_Developer-Solid-III.svg",
+          "type": "other"
+        },
+        "eCommerce-Solid-II": {
+          "value": "illustrations/eC_Graphic_Illustration_eCommerce-Solid-II.svg",
+          "type": "other"
+        },
+        "Error-404-Solid-III": {
+          "value": "illustrations/eC_Graphic_Illustration_Error-404-Solid-III.svg",
+          "type": "other"
+        },
+        "FAQ-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_FAQ-Solid-I.svg",
+          "type": "other"
+        },
+        "Graphs-Statistics-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Graphs-Statistics-Solid-I.svg",
+          "type": "other"
+        },
+        "Message-Sent-Solid-III": {
+          "value": "illustrations/eC_Graphic_Illustration_Message-Sent-Solid-III.svg",
+          "type": "other"
+        },
+        "Message-Expired-Solid-III": {
+          "value": "illustrations/eC_Graphic_Illustration_Message-Expired-Solid-III.svg",
+          "type": "other"
+        },
+        "Payment-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Payment-Solid-I.svg",
+          "type": "other"
+        },
+        "Product-Launch-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Product-Launch-Solid-I.svg",
+          "type": "other"
+        },
+        "Search-Solid-II": {
+          "value": "illustrations/eC_Graphic_Illustration_Search-Solid-II.svg",
+          "type": "other"
+        },
+        "Support-Solid-III": {
+          "value": "illustrations/eC_Graphic_Illustration_Support-Solid-III.svg",
+          "type": "other"
+        },
+        "Under-Construction-Solid-III": {
+          "value": "illustrations/eC_Graphic_Illustration_Under-Construction-Solid-III.svg",
+          "type": "other"
+        },
+        "Not-Found-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Not-Found-Solid-I.svg",
+          "type": "other"
+        },
+        "Under-Construction-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Under-Construction-Solid-I.svg",
+          "type": "other"
+        },
+        "Error-404-solid-II": {
+          "value": "illustrations/eC_Graphic_Illustration_Error-404-solid-II.svg",
+          "type": "other"
+        },
+        "Notifications-Advanced-Solid-III": {
+          "value": "illustrations/eC_Graphic_Illustration_Notifications-Advanced-Solid-III.svg",
+          "type": "other"
+        },
+        "Not-Found-Solid-II": {
+          "value": "illustrations/eC_Graphic_Illustration_Not-Found-Solid-II.svg",
+          "type": "other"
+        },
+        "Sms-Notifications-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Sms-Notifications-Solid-I.svg",
+          "type": "other"
+        },
+        "Mail-Notifications-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Mail-Notifications-Solid-I.svg",
+          "type": "other"
+        },
+        "Privacy-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Privacy-Solid-I.svg",
+          "type": "other"
+        },
+        "Mail-Confirmation-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Mail-Confirmation-Solid-I.svg",
+          "type": "other"
+        },
+        "Login-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Login-Solid-I.svg",
+          "type": "other"
+        },
+        "Safety-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Safety-Solid-I.svg",
+          "type": "other"
+        },
+        "Safety-Solid-II": {
+          "value": "illustrations/eC_Graphic_Illustration_Safety-Solid-II.svg",
+          "type": "other"
+        },
+        "Payment-eC-Icon": {
+          "value": "illustrations/eC_Graphic_Illustration_Payment-eC-Icon.svg",
+          "type": "other"
+        },
+        "Payment-dfC-Icon": {
+          "value": "illustrations/eC_Graphic_Illustration_Payment-dfC-Icon.svg",
+          "type": "other"
+        },
+        "Apply-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Apply-Solid-I.svg",
+          "type": "other"
+        },
+        "Decision-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Decision-Solid-I.svg",
+          "type": "other"
+        },
+        "Benefits-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Benefits-Solid-I.svg",
+          "type": "other"
+        },
+        "Benefits-Solid-II": {
+          "value": "illustrations/eC_Graphic_Illustration_Benefits-Solid-II.svg",
+          "type": "other"
+        },
+        "Support-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Support-Solid-I.svg",
+          "type": "other"
+        },
+        "Legitimation-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Legitimation-Solid-I.svg",
+          "type": "other"
+        },
+        "NegativeResult-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_NegativeResult-Solid-I.svg",
+          "type": "other"
+        },
+        "Protection-Solid-II": {
+          "value": "illustrations/eC_Graphic_Illustration_Protection-Solid-II.svg",
+          "type": "other"
+        },
+        "Success-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Success-Solid-I.svg",
+          "type": "other"
+        },
+        "Success-Solid-II": {
+          "value": "illustrations/eC_Graphic_Illustration_Success-Solid-II.svg",
+          "type": "other"
+        },
+        "Relax-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Relax-Solid-I.svg",
+          "type": "other"
+        },
+        "Illustration-Diagram-Solid": {
+          "value": "illustrations/eC_Graphic_Illustration-Diagram-Solid.svg",
+          "type": "other"
+        },
+        "Illustration-Pin-Solid": {
+          "value": "illustrations/eC_Graphic_Illustration-Pin-Solid.svg",
+          "type": "other"
+        },
+        "Illustration-Phone-Solid": {
+          "value": "illustrations/eC_Graphic_Illustration-Phone-Solid.svg",
+          "type": "other"
+        },
+        "Autofinanzierung_Neuwagenfinanzierung_Outline": {
+          "value": "illustrations/eC_Graphic_Illustrations_Autofinanzierung_Neuwagenfinanzierung_Outline.svg",
+          "type": "other"
+        },
+        "Autofinanzierung_Neuwagenfinanzierung_Solid": {
+          "value": "illustrations/eC_Graphic_Illustrations_Autofinanzierung_Neuwagenfinanzierung_Solid.svg",
+          "type": "other"
+        },
+        "Autokredit_Schlussrate_Outline": {
+          "value": "illustrations/eC_Graphic_Illustrations_Autokredit_Schlussrate_Outline.svg",
+          "type": "other"
+        },
+        "Autokredit_Schlussrate_Solid": {
+          "value": "illustrations/eC_Graphic_Illustrations_Autokredit_Schlussrate_Solid.svg",
+          "type": "other"
+        },
+        "Bafoeg_rueckzahlung_Outline": {
+          "value": "illustrations/eC_Graphic_Illustrations_Bafoeg_rueckzahlung_Outline.svg",
+          "type": "other"
+        },
+        "Bafoeg_rueckzahlung_Solid": {
+          "value": "illustrations/eC_Graphic_Illustrations_Bafoeg_rueckzahlung_Solid.svg",
+          "type": "other"
+        },
+        "Darlehen_Outline": {
+          "value": "illustrations/eC_Graphic_Illustrations_Darlehen_Outline.svg",
+          "type": "other"
+        },
+        "Darlehen_Solid": {
+          "value": "illustrations/eC_Graphic_Illustrations_Darlehen_Solid.svg",
+          "type": "other"
+        },
+        "Darlehensrechner_Hufeisenregler_Outline": {
+          "value": "illustrations/eC_Graphic_Illustrations_Darlehensrechner_Hufeisenregler_Outline.svg",
+          "type": "other"
+        },
+        "Darlehensrechner_Hufeisenregler_Solid": {
+          "value": "illustrations/eC_Graphic_Illustrations_Darlehensrechner_Hufeisenregler_Solid.svg",
+          "type": "other"
+        },
+        "Darlehensrechner_Outline": {
+          "value": "illustrations/eC_Graphic_Illustrations_Darlehensrechner_Outline.svg",
+          "type": "other"
+        },
+        "Darlehensrechner_Solid": {
+          "value": "illustrations/eC_Graphic_Illustrations_Darlehensrechner_Solid.svg",
+          "type": "other"
+        },
+        "E_bike_finanzieren_Outline": {
+          "value": "illustrations/eC_Graphic_Illustrations_E_bike_finanzieren_Outline.svg",
+          "type": "other"
+        },
+        "E_bike_finanzieren_Solid": {
+          "value": "illustrations/eC_Graphic_Illustrations_E_bike_finanzieren_Solid.svg",
+          "type": "other"
+        },
+        "Finanzierung_Outline": {
+          "value": "illustrations/eC_Graphic_Illustrations_Finanzierung_Outline.svg",
+          "type": "other"
+        },
+        "Finanzierung_Solid": {
+          "value": "illustrations/eC_Graphic_Illustrations_Finanzierung_Solid.svg",
+          "type": "other"
+        },
+        "FuehrerscheinFinanzieren_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_FuehrerscheinFinanzieren_Outline.svg",
+          "type": "other"
+        },
+        "FuehrerscheinFinanzieren_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_FuehrerscheinFinanzieren_Solid.svg",
+          "type": "other"
+        },
+        "Hochzeitskredit_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Hochzeitskredit_Outline.svg",
+          "type": "other"
+        },
+        "Hochzeitskredit_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Hochzeitskredit_Solid.svg",
+          "type": "other"
+        },
+        "Kleinkredit_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Kleinkredit_Outline.svg",
+          "type": "other"
+        },
+        "Kleinkredit_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Kleinkredit_Solid.svg",
+          "type": "other"
+        },
+        "KonsumentenVerbraucherkredit_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_KonsumentenVerbraucherkredit_Outline.svg",
+          "type": "other"
+        },
+        "KonsumentenVerbraucherkredit_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_KonsumentenVerbraucherkredit_Solid.svg",
+          "type": "other"
+        },
+        "Kontoblick_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Kontoblick_Outline.svg",
+          "type": "other"
+        },
+        "Kontoblick_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Kontoblick_Solid.svg",
+          "type": "other"
+        },
+        "KreditAbloesen_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_KreditAbloesen_Outline.svg",
+          "type": "other"
+        },
+        "KreditAbloesen_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_KreditAbloesen_Solid.svg",
+          "type": "other"
+        },
+        "KreditAufstocken_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_KreditAufstocken_Outline.svg",
+          "type": "other"
+        },
+        "KreditAufstocken_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_KreditAufstocken_Solid.svg",
+          "type": "other"
+        },
+        "KreditFuerRentner_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_KreditFuerRentner_Outline.svg",
+          "type": "other"
+        },
+        "KreditFuerRentner_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_KreditFuerRentner_Solid.svg",
+          "type": "other"
+        },
+        "Kredit_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Kredit_Outline.svg",
+          "type": "other"
+        },
+        "Kredit_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Kredit_Solid.svg",
+          "type": "other"
+        },
+        "KrediteZusammenfassenEasycredit_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_KrediteZusammenfassenEasycredit_Outline.svg",
+          "type": "other"
+        },
+        "KrediteZusammenfassenEasycredit_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_KrediteZusammenfassenEasycredit_Solid.svg",
+          "type": "other"
+        },
+        "Kreditrechner_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Kreditrechner_Outline.svg",
+          "type": "other"
+        },
+        "Kreditrechner_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Kreditrechner_Solid.svg",
+          "type": "other"
+        },
+        "KuecheFinanzieren_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_KuecheFinanzieren_Outline.svg",
+          "type": "other"
+        },
+        "KuecheFinanzieren_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_KuecheFinanzieren_Solid.svg",
+          "type": "other"
+        },
+        "Minikredit_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Minikredit_Outline.svg",
+          "type": "other"
+        },
+        "Minikredit_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Minikredit_Solid.svg",
+          "type": "other"
+        },
+        "ModernisierungsRenovierungskredit_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_ModernisierungsRenovierungskredit_Outline.svg",
+          "type": "other"
+        },
+        "ModernisierungsRenovierungskredit_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_ModernisierungsRenovierungskredit_Solid.svg",
+          "type": "other"
+        },
+        "Motorradfinanzierung_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Motorradfinanzierung_Outline.svg",
+          "type": "other"
+        },
+        "Motorradfinanzierung_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Motorradfinanzierung_Solid.svg",
+          "type": "other"
+        },
+        "Privatkredit_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Privatkredit_Outline.svg",
+          "type": "other"
+        },
+        "Privatkredit_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Privatkredit_Solid.svg",
+          "type": "other"
+        },
+        "Ratenkredit_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Ratenkredit_Outline.svg",
+          "type": "other"
+        },
+        "Ratenkredit_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Ratenkredit_Solid.svg",
+          "type": "other"
+        },
+        "Schnellkredit_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Schnellkredit_Outline.svg",
+          "type": "other"
+        },
+        "Schnellkredit_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Schnellkredit_Solid.svg",
+          "type": "other"
+        },
+        "Schutzbrief_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Schutzbrief_Solid.svg",
+          "type": "other"
+        },
+        "Schutzbrief_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Schutzbrief_Outline.svg",
+          "type": "other"
+        },
+        "Sofortkredit_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Sofortkredit_Outline.svg",
+          "type": "other"
+        },
+        "Sofortkredit_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Sofortkredit_Solid.svg",
+          "type": "other"
+        },
+        "Umschuldung_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Umschuldung_Outline.svg",
+          "type": "other"
+        },
+        "Umschuldung_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Umschuldung_Solid.svg",
+          "type": "other"
+        },
+        "WohnmobilFinanzieren_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_WohnmobilFinanzieren_Outline.svg",
+          "type": "other"
+        },
+        "WohnmobilFinanzieren_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_WohnmobilFinanzieren_Solid.svg",
+          "type": "other"
+        },
+        "Umbrella_Sea_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Umbrella_Sea_Outline.svg",
+          "type": "other"
+        },
+        "Umbrella_Sea_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Umbrella_Sea_Solid.svg",
+          "type": "other"
+        },
+        "Money_Sea_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Money_Sea_Outline.svg",
+          "type": "other"
+        },
+        "Money_Sea_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Money_Sea_Solid.svg",
+          "type": "other"
+        },
+        "Studium_Sea_Outline": {
+          "value": "illustrations/eC_Graphic_Illustration_Studium_Sea_Outline.svg",
+          "type": "other"
+        },
+        "Studium_Sea_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Studium_Sea_Solid.svg",
+          "type": "other"
+        },
+        "Plan-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Plan-Solid-I.svg",
+          "type": "other"
+        },
+        "Tax-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Tax-Solid-I.svg",
+          "type": "other"
+        },
+        "RahmenkreditStep01_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_RahmenkreditStep01_Solid.svg",
+          "type": "other"
+        },
+        "RahmenkreditStep02_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_RahmenkreditStep02_Solid.svg",
+          "type": "other"
+        },
+        "RahmenkreditStep03_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_RahmenkreditStep03_Solid.svg",
+          "type": "other"
+        },
+        "RelaxCheck-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_RelaxCheck-Solid-I.svg",
+          "type": "other"
+        },
+        "Payment-eCPlus-Icon": {
+          "value": "illustrations/eC_Graphic_Illustration_Payment-eCPlus-Icon.svg",
+          "type": "other"
+        },
+        "FaceId_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_FaceId_Solid.svg",
+          "type": "other"
+        },
+        "Goal_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Goal_Solid.svg",
+          "type": "other"
+        },
+        "Faq_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_Faq_Solid.svg",
+          "type": "other"
+        },
+        "CardLock_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_CardLock_Solid.svg",
+          "type": "other"
+        },
+        "Goal-Solid-I": {
+          "value": "illustrations/eC_Graphic_Illustration_Goal-Solid-I.svg",
+          "type": "other"
+        },
+        "PushNotifications_Solid": {
+          "value": "illustrations/eC_Graphic_Illustration_PushNotifications_Solid.svg",
+          "type": "other"
+        }
+      }
+    }
+  }
+}

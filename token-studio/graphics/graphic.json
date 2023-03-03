@@ -1,0 +1,268 @@
+{
+  "ec": {
+    "Graphic": {
+      "Logo": {
+        "easycredit": {
+          "Default": {
+            "value": "'assets/graphics/eC_Graphic_Logo_easyCredit_Default.svg'",
+            "type": "other"
+          },
+          "Grey": {
+            "value": "'assets/graphics/eC_Graphic_Logo_easyCredit_Grey.svg'",
+            "type": "other"
+          },
+          "Black": {
+            "value": "'assets/graphics/eC_Graphic_Logo_easyCredit_Black.svg'",
+            "type": "other"
+          },
+          "White": {
+            "value": "'assets/graphics/eC_Graphic_Logo_easyCredit_White.svg'",
+            "type": "other"
+          }
+        },
+        "Gfg": {
+          "Default": {
+            "value": "'assets/graphics/eC_Graphic_Logo_Gfg_Default.svg'",
+            "type": "other"
+          },
+          "Blue": {
+            "value": "'assets/graphics/eC_Graphic_Logo_Gfg_Blue.svg'",
+            "type": "other"
+          },
+          "Black": {
+            "value": "'assets/graphics/eC_Graphic_Logo_Gfg_Black.svg'",
+            "type": "other"
+          },
+          "White": {
+            "value": "'assets/graphics/eC_Graphic_Logo_Gfg_White.svg'",
+            "type": "other"
+          }
+        },
+        "Vrbank": {
+          "Default": {
+            "value": "'assets/graphics/Graphic_Logo_VrBank_Default.svg'",
+            "type": "other"
+          }
+        },
+        "Supersign": {
+          "WeissBlauOrange": {
+            "value": "'assets/graphics/eC_Graphic_Logo_SuperSign_WeissBlauOrange.svg'",
+            "type": "other"
+          },
+          "WeissBlau": {
+            "value": "'assets/graphics/eC_Graphic_Logo_SuperSign_WeissBlau.svg'",
+            "type": "other"
+          },
+          "SchwarzWeiss": {
+            "value": "'assets/graphics/eC_Graphic_Logo_SuperSign_SchwarzWeiss.svg'",
+            "type": "other"
+          },
+          "BlauWeiss": {
+            "value": "'assets/graphics/eC_Graphic_Logo_SuperSign_BlauWeiss.svg'",
+            "type": "other"
+          },
+          "WeissSchwarz": {
+            "value": "'assets/graphics/eC_Graphic_Logo_SuperSign_WeissSchwarz.svg'",
+            "type": "other"
+          }
+        },
+        "fairecredit": {
+          "Default": {
+            "value": "'assets/graphics/eC_Graphic_Logo_faireCredit_Default.svg'",
+            "type": "other"
+          },
+          "Grey": {
+            "value": "'assets/graphics/eC_Graphic_Logo_faireCredit_Grey.svg'",
+            "type": "other"
+          },
+          "Black": {
+            "value": "'assets/graphics/eC_Graphic_Logo_faireCredit_Black.svg'",
+            "type": "other"
+          },
+          "White": {
+            "value": "'assets/graphics/eC_Graphic_Logo_faireCredit_White.svg'",
+            "type": "other"
+          }
+        },
+        "Appicon": {
+          "Round": {
+            "BlauWeiss": {
+              "value": "'assets/graphics/eC_Graphic_Logo_AppIcon_Round_BlauWeiss.svg'",
+              "type": "other"
+            }
+          },
+          "Square": {
+            "BlauWeiss": {
+              "value": "'assets/graphics/eC_Graphic_Logo_AppIcon_Square_BlauWeiss.svg'",
+              "type": "other"
+            }
+          }
+        },
+        "Ratenkauf": {
+          "Default": {
+            "value": "'assets/graphics/eC_Graphic_Logo_Ratenkauf_Default.svg'",
+            "type": "other"
+          },
+          "Grey": {
+            "value": "'assets/graphics/eC_Graphic_Logo_Ratenkauf_Grey.svg'",
+            "type": "other"
+          },
+          "Black": {
+            "value": "'assets/graphics/eC_Graphic_Logo_Ratenkauf_Black.svg'",
+            "type": "other"
+          },
+          "White": {
+            "value": "'assets/graphics/eC_Graphic_Logo_Ratenkauf_White.svg'",
+            "type": "other"
+          }
+        }
+      },
+      "PartnerLogos": {
+        "AppStore": {
+          "value": "'assets/graphics/eC_Graphic_PartnerLogos_AppStore.svg'",
+          "type": "other"
+        },
+        "GooglePlay": {
+          "value": "'assets/graphics/eC_Graphic_PartnerLogos_GooglePlay.svg'",
+          "type": "other"
+        },
+        "eKomi": {
+          "value": "'assets/graphics/eC_Graphic_PartnerLogos_eKomi.svg'",
+          "type": "other"
+        }
+      },
+      "Spinner": {
+        "Large": {
+          "FirstQuarter": {
+            "value": "'assets/graphics/eC_Graphic_Spinner_Large_FirstQuarter.svg'",
+            "type": "other"
+          },
+          "Full": {
+            "value": "'assets/graphics/eC_Graphic_Spinner_Large_Full.svg'",
+            "type": "other"
+          }
+        }
+      }
+    }
+  },
+  "dfc": {
+    "Graphic": {
+      "Logo": {
+        "Appicon": {
+          "Round": {
+            "Default": {
+              "value": "'assets/graphics/dfC_Graphic_Logo_AppIcon_Round_BlauWeiss.svg'",
+              "type": "other"
+            }
+          },
+          "Square": {
+            "Default": {
+              "value": "'assets/graphics/dfC_Graphic_Logo_AppIcon_Square_BlauWeiss.svg'",
+              "type": "other"
+            }
+          }
+        },
+        "Supersign": {
+          "WeissBlauOrange": {
+            "value": "'assets/graphics/dfC_Graphic_Logo_SuperSign_WeissBlauOrange.svg'",
+            "type": "other"
+          },
+          "WeissBlau": {
+            "value": "'assets/graphics/dfC_Graphic_Logo_SuperSign_WeissBlau.svg'",
+            "type": "other"
+          },
+          "SchwarzWeiss": {
+            "value": "'assets/graphics/dfC_Graphic_Logo_SuperSign_SchwarzWeiss.svg'",
+            "type": "other"
+          },
+          "BlauWeiss": {
+            "value": "'assets/graphics/dfC_Graphic_Logo_SuperSign_BlauWeiss.svg'",
+            "type": "other"
+          },
+          "WeissSchwarz": {
+            "value": "'assets/graphics/dfC_Graphic_Logo_SuperSign_WeissSchwarz.svg'",
+            "type": "other"
+          }
+        }
+      }
+    }
+  },
+  "Brandvisual": {
+    "Graphic": {
+      "Quartercircle": {
+        "Medium": {
+          "Primary": {
+            "value": "'assets/graphics/eC_Graphic_BrandVisual_QuarterCircle_Medium_Primary.svg'",
+            "type": "other"
+          },
+          "Default": {
+            "value": "'assets/graphics/eC_Graphic_BrandVisual_QuarterCircle_Medium_Default.svg'",
+            "type": "other"
+          }
+        }
+      }
+    }
+  },
+  "AppIcon": {
+    "Round": {
+      "BlauWeiss": {
+        "value": "'assets/graphics/eC_Graphic_BrandVisual_QuarterCircle_Medium_Primary.svg'",
+        "type": "other"
+      }
+    },
+    "Square": {
+      "BlauWeiss": {
+        "value": "'assets/graphics/eC_Graphic_BrandVisual_QuarterCircle_Medium_Primary.svg'",
+        "type": "other"
+      }
+    }
+  },
+  "AppIconPlus": {
+    "Round": {
+      "BlauWeiss": {
+        "value": "'assets/graphics/eC_Graphic_Logo_AppIconPlus_Round_BlauWeiss.svg'",
+        "type": "other"
+      }
+    },
+    "Square": {
+      "BlauWeiss": {
+        "value": "'assets/graphics/eC_Graphic_Logo_AppIconPlus_Square_BlauWeiss.svg'",
+        "type": "other"
+      }
+    }
+  },
+  "Divider": {
+    "Medium": {
+      "Default": {
+        "Color": {
+          "value": "{color.base.blue.010.value}",
+          "type": "other"
+        },
+        "Stroke": {
+          "value": "{stroke.base.size.Default.value}",
+          "type": "other"
+        }
+      },
+      "OnBackgroundLight": {
+        "Color": {
+          "value": "{color.base.blue.020.value}",
+          "type": "other"
+        },
+        "Stroke": {
+          "value": "{stroke.base.size.Default.value}",
+          "type": "other"
+        }
+      },
+      "OnBackgroundDark": {
+        "Color": {
+          "value": "{color.base.blue.070.value}",
+          "type": "other"
+        },
+        "Stroke": {
+          "value": "{stroke.base.size.Default.value}",
+          "type": "other"
+        }
+      }
+    }
+  }
+}
